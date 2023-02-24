@@ -12,4 +12,4 @@ function diamante(tamanho) {
 // 3 (resultado esperado: " *\n***\n *\n")
 // 5 (resultado esperado: "  *\n ***\n*****\n ***\n  *\n")
 
-// Quer mais desafios? Faça uma nova pasta e um arquivo com este mesmo nome e resolva o desafio utlizando TypeScript.
+// Quer mais desafios? Faça uma nova pasta e um arquivo com este mesmo nome e resolva o desafio utlizando TypeScript ou alguma linguagem no qual queira estudar.

@@ -17,4 +17,4 @@ function prestacao(valor, parcelas) {
 // 2000, 10
 // 10000, 15
 
-// Quer mais desafios? Faça uma nova pasta e um arquivo com este mesmo nome e resolva o desafio utlizando TypeScript.
+// Quer mais desafios? Faça uma nova pasta e um arquivo com este mesmo nome e resolva o desafio utlizando TypeScript ou alguma linguagem no qual queira estudar.
