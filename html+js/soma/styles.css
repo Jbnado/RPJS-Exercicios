@@ -1,0 +1,18 @@
+.header {
+  text-align: center;
+  color: black;
+}
+p {
+  color: red;
+}
+body {
+  background: whitesmoke;
+}
+
+form {
+  text-align: center;
+  background: whitesmoke;
+}
+.textBox {
+  width: 135px;
+}

@@ -1,0 +1,42 @@
+<!--como fazer decimais funcionar? mensagens de erro caso o usuário digite texto ao invés de números? -->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title> Somando </title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <h2 class="header"> Somando :)
+  </h2>
+  <h3 class="header"> Digite dois números </h3>
+
+
+  <form>
+
+    <div>
+      <label for="numberOne"> Primeiro Número: </label>
+      <input type="text" class="textBox" id="numberOne" name="numberOne" placeholder="Digite um número" />
+    </div>
+
+    <div>
+      <label for="numberTwo"> Segundo Número: </label>
+      <input type="text" class="textBox" id="numberTwo" name="numberTwo" placeholder="Digite um número" />
+    </div>
+
+
+    <input type="button" value="See result" id="resultBtn" />
+
+    <input type="reset" value="Reset" id="resetBtn" />
+  </form>
+  <form>
+    <div id="resultMessage"></div>
+    <div id="mySum"> </div>
+  </form>
+  <script src="script.js"></script>
+</body>
+
+</html>
